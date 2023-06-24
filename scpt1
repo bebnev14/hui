@@ -1,0 +1,3 @@
+game.Workspace.OceanWaves:Destroy()
+game.Lighting.Atmosphere:Destroy()
+game.Workspace.FogCover:Destroy() 
